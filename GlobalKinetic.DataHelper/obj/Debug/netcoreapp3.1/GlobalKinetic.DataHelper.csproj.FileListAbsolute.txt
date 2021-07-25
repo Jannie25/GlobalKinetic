@@ -1,0 +1,8 @@
+C:\Projects\GlobalKinetic\GlobalKinetic.DataHelper\bin\Debug\netcoreapp3.1\GlobalKinetic.DataHelper.deps.json
+C:\Projects\GlobalKinetic\GlobalKinetic.DataHelper\bin\Debug\netcoreapp3.1\GlobalKinetic.DataHelper.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.DataHelper\bin\Debug\netcoreapp3.1\GlobalKinetic.DataHelper.pdb
+C:\Projects\GlobalKinetic\GlobalKinetic.DataHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.DataHelper.AssemblyInfoInputs.cache
+C:\Projects\GlobalKinetic\GlobalKinetic.DataHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.DataHelper.AssemblyInfo.cs
+C:\Projects\GlobalKinetic\GlobalKinetic.DataHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.DataHelper.csproj.CoreCompileInputs.cache
+C:\Projects\GlobalKinetic\GlobalKinetic.DataHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.DataHelper.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.DataHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.DataHelper.pdb

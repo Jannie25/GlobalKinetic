@@ -1,0 +1,20 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[tblUser] (Table)
+       [dbo].[tblBook] (Table)
+       [dbo].[usp_GetUser] (Procedure)
+       [dbo].[uspCheckInAndOutBook] (Procedure)
+       [dbo].[usp_GetBooks] (Procedure)
+       [dbo].[usp_InsertUser] (Procedure)
+
+** Supporting actions

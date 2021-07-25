@@ -1,0 +1,12 @@
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\bin\Debug\netcoreapp3.1\GlobalKinetic.JWTHelper.deps.json
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\bin\Debug\netcoreapp3.1\GlobalKinetic.JWTHelper.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\bin\Debug\netcoreapp3.1\GlobalKinetic.JWTHelper.pdb
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\bin\Debug\netcoreapp3.1\GlobalKinetic.Models.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\bin\Debug\netcoreapp3.1\GlobalKinetic.Models.pdb
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.JWTHelper.csproj.AssemblyReference.cache
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.JWTHelper.AssemblyInfoInputs.cache
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.JWTHelper.AssemblyInfo.cs
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.JWTHelper.csproj.CoreCompileInputs.cache
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.JWTHelper.csproj.CopyComplete
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.JWTHelper.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.JWTHelper\obj\Debug\netcoreapp3.1\GlobalKinetic.JWTHelper.pdb

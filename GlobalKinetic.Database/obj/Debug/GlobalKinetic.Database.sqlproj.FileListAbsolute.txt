@@ -1,0 +1,9 @@
+C:\Projects\GlobalKinetic\GlobalKinetic.Database\bin\Debug\GlobalKinetic.Database.dacpac
+C:\Projects\GlobalKinetic\GlobalKinetic.Database\bin\Debug\Euromonitor.Database.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.Database\bin\Debug\Euromonitor.Database.pdb
+C:\Projects\GlobalKinetic\GlobalKinetic.Database\obj\Debug\Model.xml
+C:\Projects\GlobalKinetic\GlobalKinetic.Database\obj\Debug\refactor.xml
+C:\Projects\GlobalKinetic\GlobalKinetic.Database\obj\Debug\postdeploy.sql
+C:\Projects\GlobalKinetic\GlobalKinetic.Database\obj\Debug\predeploy.sql
+C:\Projects\GlobalKinetic\GlobalKinetic.Database\obj\Debug\Euromonitor.Database.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.Database\obj\Debug\Euromonitor.Database.pdb

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GlobalKinetic.JWTHelper\GlobalKinetic.JWTHelper.csproj" />
+    <ProjectReference Include="..\GlobalKinetic.Models\GlobalKinetic.Models.csproj" />
+    <ProjectReference Include="..\GlobalKinetic.Repository\GlobalKinetic.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

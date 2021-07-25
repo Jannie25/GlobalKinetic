@@ -1,0 +1,14 @@
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\bin\Debug\netcoreapp3.1\GlobalKinetic.Repository.deps.json
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\bin\Debug\netcoreapp3.1\GlobalKinetic.Repository.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\bin\Debug\netcoreapp3.1\GlobalKinetic.Repository.pdb
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\bin\Debug\netcoreapp3.1\GlobalKinetic.DataHelper.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\bin\Debug\netcoreapp3.1\GlobalKinetic.Models.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\bin\Debug\netcoreapp3.1\GlobalKinetic.DataHelper.pdb
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\bin\Debug\netcoreapp3.1\GlobalKinetic.Models.pdb
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\obj\Debug\netcoreapp3.1\GlobalKinetic.Repository.csproj.AssemblyReference.cache
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\obj\Debug\netcoreapp3.1\GlobalKinetic.Repository.AssemblyInfoInputs.cache
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\obj\Debug\netcoreapp3.1\GlobalKinetic.Repository.AssemblyInfo.cs
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\obj\Debug\netcoreapp3.1\GlobalKinetic.Repository.csproj.CoreCompileInputs.cache
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\obj\Debug\netcoreapp3.1\GlobalKinetic.Repository.csproj.CopyComplete
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\obj\Debug\netcoreapp3.1\GlobalKinetic.Repository.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.Repository\obj\Debug\netcoreapp3.1\GlobalKinetic.Repository.pdb

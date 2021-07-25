@@ -1,0 +1,8 @@
+C:\Projects\GlobalKinetic\GlobalKinetic.Models\bin\Debug\netcoreapp3.1\GlobalKinetic.Models.deps.json
+C:\Projects\GlobalKinetic\GlobalKinetic.Models\bin\Debug\netcoreapp3.1\GlobalKinetic.Models.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.Models\bin\Debug\netcoreapp3.1\GlobalKinetic.Models.pdb
+C:\Projects\GlobalKinetic\GlobalKinetic.Models\obj\Debug\netcoreapp3.1\GlobalKinetic.Models.AssemblyInfoInputs.cache
+C:\Projects\GlobalKinetic\GlobalKinetic.Models\obj\Debug\netcoreapp3.1\GlobalKinetic.Models.AssemblyInfo.cs
+C:\Projects\GlobalKinetic\GlobalKinetic.Models\obj\Debug\netcoreapp3.1\GlobalKinetic.Models.csproj.CoreCompileInputs.cache
+C:\Projects\GlobalKinetic\GlobalKinetic.Models\obj\Debug\netcoreapp3.1\GlobalKinetic.Models.dll
+C:\Projects\GlobalKinetic\GlobalKinetic.Models\obj\Debug\netcoreapp3.1\GlobalKinetic.Models.pdb
